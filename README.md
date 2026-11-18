@@ -1,3 +1,5 @@
+<p align="center">الموقع / Website: <a href="https://enmaworld.com/translations/ace-combat-8-wings-of-theve/">enmaworld.com</a></p>
+
 ![ACE COMBAT 8 - التعريب الكامل](media/header_1300x372.jpg)
 
 <div dir="rtl">
